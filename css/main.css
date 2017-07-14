@@ -1,6 +1,64 @@
 #header{
-  background-color: black;
+  background-color: #000000;
+  padding-top: 20px;
 }
+
+#logo{
+  padding-top: 0;
+  padding-left: 0px;
+}
+
+#logo img{
+  padding-top: 5px;
+}
+
+#header-menu a:first-child{
+  /*padding-left:185px;*/
+}
+
+#header-menu a{
+  border: none;
+  background-color: #000000;
+  color: #cccccc;
+  font-weight: bold;
+  padding:20px 25px 0px 25px;
+  font-size: 16px;
+
+}
+
+#contact{
+  color: #ffcc33;
+  font-weight: 800;
+  padding-top: 20px;
+  padding-right:0;
+  margin-right: 22px;
+}
+
+#header button{
+  background-color: #ffcc33;
+  border: none;
+  font-weight: 900;
+  color: #ffffff;
+  padding: 17px;
+  margin-left:42px;
+}
+
+#sub-header{
+  color: #ffffff;
+  padding-left: 0;
+  font-family: "Arial";
+}
+
+#sub-header h4{
+  font-weight: 600;
+  color: #ffcc33;
+}
+
+#sub-header p{
+  color: #999999;
+}
+
 #sub-header-img img{
   width:100%;
 }
+
