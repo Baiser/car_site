@@ -3,6 +3,10 @@
   padding-top: 20px;
 }
 
+.container {
+  padding:0 !important;
+}
+
 #back{
   background: 
 }
